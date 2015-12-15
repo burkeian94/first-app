@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Iano\Desktop\C#App\App5\App5\bin\x64\Release\App5_1.1.1.0_x64.appx
+SymbolPackage=C:\Users\Iano\Desktop\C#App\App5\App5\AppPackages\App5_1.1.1.0_Test\App5_1.1.1.0_x64.appxsym

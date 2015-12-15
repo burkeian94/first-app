@@ -1,0 +1,10 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\Iano\Desktop\C#App\App5\App5\obj\x86\Release\Upload\split.pri"			"resources.pri"
+"C:\Users\Iano\Desktop\C#App\App5\App5\obj\x86\Release\PackageUploadLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"C:\Users\Iano\Desktop\C#App\App5\App5\obj\x86\Release\PackageUploadLayout\Properties\Default.rd.xml"			"Properties\Default.rd.xml"
+"C:\Users\Iano\Desktop\C#App\App5\App5\obj\x86\Release\PackageUploadLayout\Assets\logo.jpg"			"Assets\logo.jpg"
+"C:\Users\Iano\Desktop\C#App\App5\App5\obj\x86\Release\PackageUploadLayout\ApplicationInsights.config"			"ApplicationInsights.config"
+"C:\Users\Iano\Desktop\C#App\App5\App5\obj\x86\Release\PackageUploadLayout\App5.xr.xml"			"App5.xr.xml"
